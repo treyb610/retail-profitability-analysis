@@ -1,2 +1,2 @@
-# etail-profitability-analysis
+# retail-profitability-analysis
 Comprehensive retail profitability analysis using Python and Looker Studio
