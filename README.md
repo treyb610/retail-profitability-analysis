@@ -1,4 +1,4 @@
-# 📊 Superstore Business Intelligence Dashboard
+#  Superstore Business Intelligence Dashboard
 ### Advanced Retail Analytics & Performance Optimization Platform
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -6,13 +6,13 @@
 [![Looker Studio](https://img.shields.io/badge/Dashboard-Looker%20Studio-purple.svg)](dashboards/)
 [![Data Pipeline](https://img.shields.io/badge/Pipeline-Pandas-orange.svg)](notebooks/)
 
-## 🎯 Project Overview
+##  Project Overview
 
 A comprehensive retail analytics solution for Superstore's multi-category business operations. With over $2.3M in revenue across 7,050 orders, this project delivers actionable insights to optimize product performance, regional strategies, and customer segmentation through advanced data visualization and business intelligence.
 
 **Key Achievement**: Identified opportunities for **15-20% profit optimization** through data-driven category management and regional performance analysis.
 
-## 💼 Business Impact
+##  Business Impact
 
 - **Revenue Analytics**: $2,297,200.86 total revenue tracking across all channels
 - **Profitability Insights**: $286,397.02 profit with 17% overall margin analysis
@@ -20,7 +20,7 @@ A comprehensive retail analytics solution for Superstore's multi-category busine
 - **Operational Efficiency**: 7,050 orders analyzed for performance optimization
 - **Regional Coverage**: Complete 4-region performance breakdown
 
-## 🛠 Technical Stack
+##  Technical Stack
 
 **Data Processing Environment**
 - Python 3.8+, Pandas, NumPy
@@ -46,7 +46,7 @@ A comprehensive retail analytics solution for Superstore's multi-category busine
 - Mobile-responsive Design
 - Automated Data Refresh
 
-## 📈 Key Findings
+##  Key Findings
 
 ### Revenue & Profitability Analysis
 - **Technology Leadership**: Highest profit category at $145K+ revenue
@@ -73,7 +73,7 @@ A comprehensive retail analytics solution for Superstore's multi-category busine
 - **Monthly Optimization**: Clear seasonal patterns for inventory planning
 - **Year-over-Year Growth**: Consistent upward trajectory 2014-2017
 
-## 🎯 Business Recommendations
+##  Business Recommendations
 
 ### 1. **Category Portfolio Optimization**
 - **Expand Technology**: Leverage 8.4% profit margin in Copiers
